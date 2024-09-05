@@ -22,4 +22,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=arpitapatil14&icon=5&color=13)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
