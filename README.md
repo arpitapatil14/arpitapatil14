@@ -1,3 +1,5 @@
+<center> <img src="header.gif"></center>
+
 ## Hi I'm Arpita 👋
 
 # 💫 About Me:
